@@ -39,7 +39,7 @@ Ve složce projektu je obrázek *zadani-ukolu.jpg*, kde jsou uvedeny požadovan�
 Zadání tohoto projektu je vytvořeno ve dvou úrovních obtížnosti. Tento repozitář obsahuje výchozí **standardní úroveň obtížnosti.** Pokud máš méně času nebo s úkolem bojuješ, můžeš zkusit lehčí variantu úkolu.
 
 ### Standardní obtížnost
-- obsažená v této repozitáři
+- obsažená v tomto repozitáři
 - v HTML najdeš pouze obsahové elementy (nadpisy, odstavce, obrázky)
 - sama si do HTML musíš dopsat další strukturu, která je nutná, abys mohla HTML nastylovat podle grafického zadání
 - musíš vymyslet, do jakých prvků obsah zabalíš a jaké třídy jim přidáš
