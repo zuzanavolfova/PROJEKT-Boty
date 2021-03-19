@@ -54,7 +54,7 @@ Je úplně v pořádku, pokud si nakonec zvolíš jednodušší variantu (např.
 
 ## Jak si stáhnout podklady
 
-1. Udělej si **fork** této repozitáře - tím se ti úkol zkopíruje do tvého GitHub profilu.
+1. Udělej si **fork** tohoto repozitáře - tím se ti úkol zkopíruje do tvého GitHub profilu.
 2. Forknutou repozitář si naklonuj k sobě na disk.
 
 Pokud nevíš, co je to **fork repozitáře** a jak ho provést, podívej se na [krátké video](https://youtu.be/K7rE3jRCjD4).
