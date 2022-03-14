@@ -55,7 +55,7 @@ body {
 }
 
 .levaPolovina p {
-    margin-top: 0;
+    margin-top: 30px;
     font-size: 16px;
     font-weight: 500;
 }
@@ -110,6 +110,7 @@ h2 {
     font-weight: 400;
     font-size: 16px;
     margin-top: 30px;
+    margin-bottom: 0;
 }
 
 .popis {
@@ -131,17 +132,20 @@ h2 {
 .pravyText {
     border-bottom: 1px solid #06d7c1;
     padding-bottom: 30px;
+    font-size: 14px;
 }
 
 .vybrana {
     border-radius: 50%;
     border: 1px solid #f15f42;
     color: #f15f42;
+    font-weight: bold;
 }
 
 ul {
     display: flex;
     padding: 0;
+    margin: 0;
 }
 
 li {
