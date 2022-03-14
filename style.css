@@ -94,12 +94,28 @@ body {
     padding: 10px 30px;
     border-radius: 10px;
     text-transform: uppercase;
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
 }
 
 h1 {
     font-size: 20px;
-    margin-top: 30px;
+    margin: 0;
     font-weight: 500;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 30px;
+}
+
+.popis {
+    color: #959595;
+    margin-top: 10px;
+    margin-bottom: 30px;
 }
 
 .pravaPolovina {
@@ -112,6 +128,11 @@ h1 {
     flex-shrink: 0;
 }
 
+.pravyText {
+    border-bottom: 1px solid #06d7c1;
+    padding-bottom: 30px;
+}
+
 .vybrana {
     border-radius: 50%;
     border: 1px solid #f15f42;
@@ -120,9 +141,12 @@ h1 {
 
 ul {
     display: flex;
+    padding: 0;
 }
 
 li {
     flex-grow: 1;
-    padding: 5px;
+    list-style: none;
+    padding: 4px;
+    margin: 10px;
 }
